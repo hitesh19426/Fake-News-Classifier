@@ -1,2 +1,3 @@
 # Fake-News-Classifier
-An ML model that classifies news as true/fake and compare results of various models.
+- Train ML model to classifies news as true/fake
+- compare results of various models for the classification like Naive Bayes, Logistic Regression, Random Forest, LSTM.
